@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "\u0022\u6D4B\u8BD5\u8282\u0022",
+    "EnglishName": "",
+    "Type": 3,
+    "Month": 10,
+    "Day": 31,
+    "IsLunar": false,
+    "LunarMonth": null,
+    "LunarDay": null,
+    "Description": "\u0022\u8FD9\u662F\u4E00\u4E2A\u6D4B\u8BD5\u8282\u65E5\u0022",
+    "IsPublicHoliday": false,
+    "HolidayDays": 1
+  }
+]
