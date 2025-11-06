@@ -94,14 +94,14 @@ namespace Quadono
             Console.WriteLine("  quadono holidays upcoming    显示即将到来的节日");
             Console.WriteLine("  quadono holidays add <名称> <类型> <月> <日> [描述] 添加自定义节日");
             Console.WriteLine("  quadono holidays del <名称>  删除自定义节日");
-            //Console.WriteLine("  quadono important            显示所有重要日");
-            //Console.WriteLine("  quadono important upcoming   显示即将到来的重要日");
-            //Console.WriteLine("  quadono important add <名称> <类型> <级别> <月> <日> [描述] 添加重要日");
-            //Console.WriteLine("  quadono important search <关键词> 搜索重要日");
-            //Console.WriteLine("  quadono important del <名称> 删除重要日");
-            //Console.WriteLine("  节日类型: international, chinese, folk, community");
-            //Console.WriteLine("  重要日类型: exam, contest, language, professional, admission, other");
-            //Console.WriteLine("  重要级别: normal, important, veryimportant, critical");
+            Console.WriteLine("  quadono important            显示所有重要日");
+            Console.WriteLine("  quadono important upcoming   显示即将到来的重要日");
+            Console.WriteLine("  quadono important add <名称> <类型> <级别> <月> <日> [描述] 添加重要日");
+            Console.WriteLine("  quadono important search <关键词> 搜索重要日");
+            Console.WriteLine("  quadono important del <名称> 删除重要日");
+            Console.WriteLine("  节日类型: international, chinese, folk, community");
+            Console.WriteLine("  重要日类型: exam, contest, language, professional, admission, other");
+            Console.WriteLine("  重要级别: normal, important, veryimportant, critical");
         }
 
         static int HandleHolidayCommand(string[] args)
